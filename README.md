@@ -1,1 +1,1 @@
-i just edited the ead me file from github. task 4
+i just edited the read me file from github. task 4
